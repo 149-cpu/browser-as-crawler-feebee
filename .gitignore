@@ -1,0 +1,5 @@
+# 絕不把本機／私有工作材料 commit 進公開 repo。
+*.tmp
+.DS_Store
+scratch/
+NOTES-local*
